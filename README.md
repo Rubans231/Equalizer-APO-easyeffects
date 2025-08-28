@@ -6,5 +6,5 @@
 - Can simply install it from flatpak and go bonkers on the audio customization to suit our liking
 - The currently saved presets are for my JBL Quantum 910 
 - I personally use it on 71% volume (mildly blasting my ears into oblivion because it's fun) 
-![[Pasted image 20250828194240.png]]
-![[Pasted image 20250828194531.png]]
+<img width="733" height="408" alt="image" src="https://github.com/user-attachments/assets/258c9947-40d0-471f-a42e-e541d2d0ec71" />
+<img width="750" height="372" alt="image" src="https://github.com/user-attachments/assets/e0216efd-049b-4ffb-a733-d2ec6fb26e65" />
